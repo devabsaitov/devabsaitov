@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://en.ephoto360.com/2023/01/63bc3b71b9528.jpg-s272-b1" alt="my banner">
+  <img src="https://telegra.ph/file/2d4867b04979b507d6a89.jpg" alt="my banner">
 </p>
 
 <h3 align="center">
