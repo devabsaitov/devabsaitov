@@ -12,7 +12,7 @@ A passionate backend developer from Uzbekistan
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshoduz" alt="akhroruz" /></a> </p>
+<p align="left"> <a href="https://github.com/devabsaitov"><img src="https://github-profile-trophy.vercel.app/?username=dilshoduz" alt="dilshoduz" /></a> </p>
 
 ### Connect with me:
 
