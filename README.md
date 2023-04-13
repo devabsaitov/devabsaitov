@@ -17,7 +17,7 @@ A passionate backend developer from Uzbekistan
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ahrorbek-turginboyev-b31263251/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://t.me/ahrorpro"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://t.me/absaitov_dilshod"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://leetcode.com/kodernet/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
